@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick(View view) {
         mHelloTextView.setText("Hello dark!");
-//        mHelloConstrainLayout.setBackground(@);
+
+//        mHelloConstrainLayout.setBackground();
     }
 }
