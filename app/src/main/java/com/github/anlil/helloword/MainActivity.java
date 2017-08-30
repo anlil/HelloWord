@@ -17,10 +17,7 @@ public class MainActivity extends AppCompatActivity {
         mHelloTextView = (TextView)findViewById(R.id.textView);
 
     }
-
     public void onClick(View view) {
         mHelloTextView.setText("Hello dark!");
-
-//        mHelloConstrainLayout.setBackground();
     }
 }
